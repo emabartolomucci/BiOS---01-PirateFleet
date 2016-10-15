@@ -5,4 +5,3 @@
 ![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
 
 This repository contains the final code submitted for the first project of Udacity's BiOS Nanodegree.
-
